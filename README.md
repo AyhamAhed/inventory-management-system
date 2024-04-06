@@ -4,4 +4,7 @@ This repository contains the codebase for an Inventory Management System. The sy
 [Collection-Resources-Table.pdf](https://github.com/AyhamAhed/inventory-management-system/files/14894990/Collection-Resources-Table.pdf)
 
 
+[Core Resources.pdf](https://github.com/AyhamAhed/inventory-management-system/files/14894992/Core.Resources.pdf)
+
+
 https://app.swaggerhub.com/apis/AYHAMAHED1/inventory-management_system_api/1.0.0
