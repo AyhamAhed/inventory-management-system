@@ -3,6 +3,8 @@ This repository contains the codebase for an Inventory Management System. The sy
 
 [Collection-Resources-Table.pdf](https://github.com/AyhamAhed/inventory-management-system/files/14894990/Collection-Resources-Table.pdf)
 
+![ERD](https://github.com/AyhamAhed/inventory-management-system/assets/162844647/caceed9b-fe70-4c1d-bd3b-e5378aa60c97)
+
 
 [Core Resources.pdf](https://github.com/AyhamAhed/inventory-management-system/files/14894992/Core.Resources.pdf)
 
