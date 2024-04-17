@@ -13,3 +13,16 @@ This repository contains the codebase for an Inventory Management System. The sy
 
 
 https://app.swaggerhub.com/apis/AYHAMAHED1/inventory-management_system_api/1.0.0
+
+
+[Categories.postman_collection.json](https://github.com/AyhamAhed/inventory-management-system/files/15017206/Categories.postman_collection.json)
+
+
+[Customers.postman_collection.json](https://github.com/AyhamAhed/inventory-management-system/files/15017211/Customers.postman_collection.json)
+
+
+[Orders.postman_collection.json](https://github.com/AyhamAhed/inventory-management-system/files/15017214/Orders.postman_collection.json)
+
+
+[Products.postman_collection.json](https://github.com/AyhamAhed/inventory-management-system/files/15017216/Products.postman_collection.json)
+
